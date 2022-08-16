@@ -1,4 +1,4 @@
-Financial Planning with APIs and Simulation 
+# Financial Planning with APIs and Simulation 
 
 Part 1: A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
 
